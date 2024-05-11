@@ -6,7 +6,7 @@
    apt update && apt upgrade -y
 git clone https://github.com/elrashedy1992/Mr-nightmare
 cd Mr-nightmare
-chmode +x mrnightmar.sh
+chmod +x mrnightmar.sh
 ./mrnightmar.sh
 
    
