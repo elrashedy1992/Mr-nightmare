@@ -7,7 +7,7 @@
 git clone https://github.com/elrashedy1992/Mr-nightmare
 cd Mr-nightmare
 chmode +x mrnightmar.sh
-./mrnightmare.sh
+./mrnightmar.sh
 
    
  </code> 
